@@ -1,0 +1,263 @@
+*{
+    padding:0;
+    margin:0;
+    
+}
+
+h1{
+    font-size:100px;
+    text-align:left ;
+    background-color:#fff;
+    color:#FFA500;
+    border-radius:20px 20px 0 0;
+    padding:20px;
+    margin-bottom:20px;
+    box-shadow:3px 6px 22px black;
+    text-shadow:1px 4px 10px #FFA500;
+    
+}
+
+.team-logo{
+    height:130px;
+    width:300px;
+    position:absolute ;
+    top:0;
+    right:15px;
+    
+    background-image:url(https://junayedahmed654502975.files.wordpress.com/2020/12/img-20201206-wa0003.jpg);
+    background-size:cover;
+    background-position:center ;
+    background-repeat:no-repeat ;
+}
+
+h1::after{
+    content:"";
+}
+
+.perentdiv{
+    height:1000px;
+    width:1300px;
+    margin:100px 10px;
+    position:relative ;
+}
+
+.div1{
+    height:230px;
+    width:200px;
+    display:inline-block ;
+    border:1px solid #3498db;
+    margin:5px;
+    border-radius:20px;
+    box-shadow:3px 6px 22px black;
+    position:relative;
+    background-image:url(https://junayedahmed654502975.files.wordpress.com/2020/12/img202012141602447e2.jpg);
+    background-size:cover;
+    background-position:center ;
+}
+
+.div img{
+    max-width:100%;
+}
+
+h2{
+    text-align:center ;
+    position:relative ;
+    top:194px;
+    left:0;
+    color:#fff;
+    background-color:#3498db;
+    padding:5px;
+    border-radius:0 0 10px 10px;
+}
+
+.div2{
+    height:230px;
+    width:200px;
+    display:inline-block ;
+    border:1px solid #3498db;
+    margin:5px;
+    border-radius:20px;
+    box-shadow:3px 3px 22px black;
+    
+    background-image:url(https://junayedahmed654502975.files.wordpress.com/2020/12/img202012141603207e2.jpg);
+    background-size:cover;
+    background-position:center ;
+}
+
+.div3{
+    height:230px;
+    width:200px;
+    display:inline-block ;
+    border:1px solid #3498db;
+    margin:5px;
+    border-radius:20px;
+    box-shadow:3px 3px 22px black;
+    
+    background-image:url(https://junayedahmed654502975.files.wordpress.com/2020/12/img-20201214-wa00207e3.jpg);
+    background-size:cover;
+    background-position:center ;
+}
+
+.div4{
+    height:230px;
+    width:200px;
+    display:inline-block ;
+    border:1px solid #3498db;
+    margin:5px;
+    border-radius:20px;
+    box-shadow:3px 3px 22px black;
+    
+    background-image:url(https://junayedahmed654502975.files.wordpress.com/2020/12/img202012141602597e3.jpg);
+    background-size:cover;
+    background-position:center;
+}
+
+.div5{
+    height:230px;
+    width:200px;
+    display:inline-block ;
+    border:1px solid #3498db;
+    margin:5px;
+    border-radius:20px;
+    box-shadow:3px 3px 22px black;
+    
+    background-image:url(https://junayedahmed654502975.files.wordpress.com/2020/12/picsart_12-15-12.40.43.png);
+    
+    background-size:cover;
+    background-position:center ;
+}
+
+.div6{
+    height:230px;
+    width:200px;
+    display:inline-block ;
+    border:1px solid #3498db;
+    margin:5px;
+    border-radius:20px;
+    box-shadow:3px 3px 22px black;
+    
+    background-image:url(https://junayedahmed654502975.files.wordpress.com/2020/12/picsart_12-15-12.28.48.png);
+    background-size:cover;
+    background-position:center ;
+}
+
+.div7{
+    height:230px;
+    width:200px;
+    display:inline-block ;
+    border:1px solid #3498db;
+    margin:5px;
+    border-radius:20px;
+    box-shadow:3px 3px 22px black;
+    
+    background-image:url(https://junayedahmed654502975.files.wordpress.com/2020/12/img202012141600207e2.jpg);
+    background-size:cover;
+    background-position:center;
+}
+
+.div8{
+    height:230px;
+    width:200px;
+    display:inline-block ;
+    border:1px solid #3498db;
+    margin:5px;
+    border-radius:20px;
+    box-shadow:3px 3px 22px black;
+    
+    background-image:url(https://junayedahmed654502975.files.wordpress.com/2020/12/image_editor_output_image-910257338-1607885952531.jpg);
+    background-size:cover;
+    background-position:center ;
+}
+
+.div9{
+    height:230px;
+    width:200px;
+    display:inline-block ;
+    border:1px solid #3498db;
+    margin:5px;
+    border-radius:20px;
+    box-shadow:3px 3px 22px black;
+    
+    background-image:url(https://junayedahmed654502975.files.wordpress.com/2020/12/img-20201214-wa00187e3.jpg);
+    background-size:cover;
+    background-position:center ;
+}
+
+.div10{
+    height:230px;
+    width:200px;
+    display:inline-block ;
+    border:1px solid #3498db;
+    margin:5px;
+    border-radius:20px;
+    box-shadow:3px 3px 22px black;
+    
+    background-image:url(https://junayedahmed654502975.files.wordpress.com/2020/12/img202012141600577e2.jpg);
+    background-size:cover;
+    background-position:center;
+}
+
+.div11{
+    height:230px;
+    width:200px;
+    display:inline-block ;
+    border:1px solid #3498db;
+    margin:5px;
+    border-radius:20px;
+    box-shadow:3px 3px 22px black;
+    
+    background-image:url(https://junayedahmed654502975.files.wordpress.com/2020/12/img-20201214-wa00237e2.jpg);
+    background-size:cover;
+    background-position:center ;
+}
+
+.div12{
+    height:230px;
+    width:200px;
+    display:inline-block ;
+    border:1px solid #3498db;
+    margin:5px;
+    border-radius:20px;
+    box-shadow:3px 3px 22px black;
+    
+    background-image:url(https://junayedahmed654502975.files.wordpress.com/2020/12/img-20201214-wa00227e2.jpg);
+    background-size:cover;
+    background-position:center ;
+}
+
+.div1 i{
+    font-size:35px;
+    position:absolute;
+    top:10px;
+    left:160px;
+    color:#000;
+}
+
+/*hover 00000000000000000 start*/
+
+.div1h{
+    height:0;
+    width:100%;
+    position:absolute ;
+    top:0;
+    left:0;
+    font-size:25px;
+    background:rgb(0,0,0, .4);
+    border-radius:20px;
+    visibility:hidden ;
+    opacity:0;
+    transition:.4s;
+}
+
+.div1h h3{
+    font-size:25px;
+    text-align:center ;
+    margin-top:110px;
+    color:#fff;
+}
+
+.div1:hover .div1h{
+    height:100%;
+    opacity:1;
+    visibility:visible ;
+}
